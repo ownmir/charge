@@ -15,7 +15,7 @@ E     C
 |__D__|"""
 
 
-def getSevSegStr(number, minWidth=0):
+def get_seven_segment_string(number, minWidth=0):
     """Return a seven-segment display string of number. The returned
     string will be padded with zeros if it is smaller than minWidth."""
 
